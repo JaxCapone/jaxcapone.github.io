@@ -1,2 +1,2 @@
-# jaxcapone.github.io
+# Jax Capone
 My first public site
